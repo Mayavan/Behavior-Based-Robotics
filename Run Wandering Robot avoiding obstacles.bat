@@ -1,0 +1,2 @@
+python Wandering_Robot_avoiding_obstacles.py
+cmd /k
