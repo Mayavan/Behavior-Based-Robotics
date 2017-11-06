@@ -1,2 +1,2 @@
-python Wandering_Robot_avoiding_obstacles.py
+python WanderingRobotavoidingobstacles.py
 cmd /k
